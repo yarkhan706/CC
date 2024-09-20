@@ -1,0 +1,8 @@
+C:\Users\Zain Ullah\Desktop\Relational Operators\Relational Operators\bin\Debug\Relational Operators.exe.config
+C:\Users\Zain Ullah\Desktop\Relational Operators\Relational Operators\bin\Debug\Relational Operators.exe
+C:\Users\Zain Ullah\Desktop\Relational Operators\Relational Operators\bin\Debug\Relational Operators.pdb
+C:\Users\Zain Ullah\Desktop\Relational Operators\Relational Operators\obj\Debug\Relational_Operators.Form1.resources
+C:\Users\Zain Ullah\Desktop\Relational Operators\Relational Operators\obj\Debug\Relational_Operators.Properties.Resources.resources
+C:\Users\Zain Ullah\Desktop\Relational Operators\Relational Operators\obj\Debug\Relational Operators.csproj.GenerateResource.Cache
+C:\Users\Zain Ullah\Desktop\Relational Operators\Relational Operators\obj\Debug\Relational Operators.exe
+C:\Users\Zain Ullah\Desktop\Relational Operators\Relational Operators\obj\Debug\Relational Operators.pdb
