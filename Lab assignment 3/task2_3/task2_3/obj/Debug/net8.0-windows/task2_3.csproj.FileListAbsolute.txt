@@ -1,0 +1,16 @@
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\task2_3.Form1.resources
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\task2_3.csproj.GenerateResource.cache
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\task2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\task2_3.AssemblyInfoInputs.cache
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\task2_3.AssemblyInfo.cs
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\task2_3.csproj.CoreCompileInputs.cache
+C:\Users\yarkh\source\repos\task2_3\task2_3\bin\Debug\net8.0-windows\task2_3.exe
+C:\Users\yarkh\source\repos\task2_3\task2_3\bin\Debug\net8.0-windows\task2_3.deps.json
+C:\Users\yarkh\source\repos\task2_3\task2_3\bin\Debug\net8.0-windows\task2_3.runtimeconfig.json
+C:\Users\yarkh\source\repos\task2_3\task2_3\bin\Debug\net8.0-windows\task2_3.dll
+C:\Users\yarkh\source\repos\task2_3\task2_3\bin\Debug\net8.0-windows\task2_3.pdb
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\task2_3.dll
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\refint\task2_3.dll
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\task2_3.pdb
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\task2_3.genruntimeconfig.cache
+C:\Users\yarkh\source\repos\task2_3\task2_3\obj\Debug\net8.0-windows\ref\task2_3.dll
