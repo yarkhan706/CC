@@ -1,0 +1,16 @@
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\bin\Debug\net8.0-windows\lab4_task1.exe
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\bin\Debug\net8.0-windows\lab4_task1.deps.json
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\bin\Debug\net8.0-windows\lab4_task1.runtimeconfig.json
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\bin\Debug\net8.0-windows\lab4_task1.dll
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\bin\Debug\net8.0-windows\lab4_task1.pdb
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\lab4_task1.Form1.resources
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\lab4_task1.csproj.GenerateResource.cache
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\lab4_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\lab4_task1.AssemblyInfoInputs.cache
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\lab4_task1.AssemblyInfo.cs
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\lab4_task1.csproj.CoreCompileInputs.cache
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\lab4_task1.dll
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\refint\lab4_task1.dll
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\lab4_task1.pdb
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\lab4_task1.genruntimeconfig.cache
+C:\Users\yarkh\source\repos\lab4_task1\lab4_task1\obj\Debug\net8.0-windows\ref\lab4_task1.dll
